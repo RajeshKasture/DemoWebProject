@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="22.64" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="22.64" skipped="0" timestamp="14-01-2025T13:03:51" hostname="Rajesh kasture - LAPTOP-9U10MB95" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rajesh kasture\\git\\DemoWebProject\\DemoWebProject\\Reports\\20250114_130344\\New Test Suite\\20250114_130344"/>
+         <property name="logFiles" value="C:\\Users\\Rajesh kasture\\git\\DemoWebProject\\DemoWebProject\\Reports\\20250114_130344\\New Test Suite\\20250114_130344\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rajesh kasture - LAPTOP-9U10MB95"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.156.174"/>
+         <property name="sessionId" value="9ad214f2a7f3251d28418497fa37bb5d"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Example3" time="22.3" classname="Test Cases/Example3" status="PASSED">
+         <system-out><![CDATA[14-01-2025T13:03:51 - [TEST_CASE][PASSED] - Test Cases/Example3: Test Cases/Example3
+
+14-01-2025T13:03:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-01-2025T13:03:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+14-01-2025T13:03:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-01-2025T13:03:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-01-2025T13:03:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+14-01-2025T13:03:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+14-01-2025T13:03:57 - [TEST_STEP][PASSED] - navigateToUrl("https://demo.automationtesting.in/Frames.html"): Navigate to 'https://demo.automationtesting.in/Frames.html' successfully
+
+14-01-2025T13:04:05 - [MESSAGE][PASSED] - Navigate to 'https://demo.automationtesting.in/Frames.html' successfully
+
+14-01-2025T13:04:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+14-01-2025T13:04:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+14-01-2025T13:04:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Example3/Page_Frames/input_text"), "rajesh"): Text 'rajesh' is set on object 'Object Repository/Example3/Page_Frames/input_text'
+
+14-01-2025T13:04:09 - [MESSAGE][PASSED] - Text 'rajesh' is set on object 'Object Repository/Example3/Page_Frames/input_text'
+
+14-01-2025T13:04:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+14-01-2025T13:04:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+14-01-2025T13:04:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Example3/Page_Frames/div_Single Iframe                          _fea3d6")): Object: 'Object Repository/Example3/Page_Frames/div_Single Iframe                          _fea3d6' is clicked on
+
+14-01-2025T13:04:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Example3/Page_Frames/div_Single Iframe                          _fea3d6' is clicked on
+
+14-01-2025T13:04:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+14-01-2025T13:04:13 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[14-01-2025T13:03:51 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/Example3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

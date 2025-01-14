@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 131.0.0.0,,,14-01-2025 13:03:51,14-01-2025 13:04:13,22.640s,PASSED
+,,,,,,,
+Test Cases/Example3,Chrome 131.0.0.0,,,14-01-2025 13:03:51,14-01-2025 13:04:13,22.300s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,14-01-2025 13:03:51,14-01-2025 13:03:55,4.184s,PASSED
+delay(2),Chrome 131.0.0.0,,,14-01-2025 13:03:55,14-01-2025 13:03:57,2.080s,PASSED
+"navigateToUrl(""https://demo.automationtesting.in/Frames.html"")",Chrome 131.0.0.0,,,14-01-2025 13:03:57,14-01-2025 13:04:05,7.817s,PASSED
+delay(2),Chrome 131.0.0.0,,,14-01-2025 13:04:05,14-01-2025 13:04:07,2.028s,PASSED
+"setText(findTestObject(""Object Repository/Example3/Page_Frames/input_text""), ""rajesh"")",Chrome 131.0.0.0,,,14-01-2025 13:04:07,14-01-2025 13:04:09,1.297s,PASSED
+delay(2),Chrome 131.0.0.0,,,14-01-2025 13:04:09,14-01-2025 13:04:11,2.012s,PASSED
+"click(findTestObject(""Object Repository/Example3/Page_Frames/div_Single Iframe                          _fea3d6""))",Chrome 131.0.0.0,,,14-01-2025 13:04:11,14-01-2025 13:04:11,0.535s,PASSED
+delay(2),Chrome 131.0.0.0,,,14-01-2025 13:04:11,14-01-2025 13:04:13,2.014s,PASSED
