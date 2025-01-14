@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Added to eBook cart</name>
+   <tag></tag>
+   <elementGuidId>306c79ed-fc8c-4c95-aae5-56b65b75a0a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-column.a-span4.a-text-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-to-ebooks-cart-success-message']/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0f2793d-972d-4705-a8ac-efa720d80cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-column a-span4 a-text-left</value>
+      <webElementGuid>03be40b9-e439-42fa-91bd-c9da23a0db3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Added to eBook cart </value>
+      <webElementGuid>acb5a8ef-e503-4985-a6e5-c499ef44438d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-to-ebooks-cart-success-message&quot;)/div[@class=&quot;a-box a-alert a-alert-success&quot;]/div[@class=&quot;a-box-inner a-alert-container&quot;]/div[@class=&quot;a-alert-content&quot;]/div[@class=&quot;a-row a-grid-vertical-align a-grid-center&quot;]/div[@class=&quot;a-column a-span4 a-text-left&quot;]</value>
+      <webElementGuid>3a9ea710-8ba7-42de-9b4a-ede45c790f93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-to-ebooks-cart-success-message']/div/div/div/div/div</value>
+      <webElementGuid>339bd658-e19c-4898-96d1-975745c3f403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to results'])[1]/following::div[11]</value>
+      <webElementGuid>6f721d1b-9434-46e5-b1bb-64d6e404b3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::div[11]</value>
+      <webElementGuid>2bc329de-cb3f-49ce-a27a-cf062c35ecfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/preceding::div[1]</value>
+      <webElementGuid>ea948f63-4537-444d-8f76-c06073e99bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div</value>
+      <webElementGuid>c68acbbb-418a-4ecd-ae21-7359153387b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Added to eBook cart ' or . = ' Added to eBook cart ')]</value>
+      <webElementGuid>c9533183-82ab-4404-b92a-e956b60d245c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

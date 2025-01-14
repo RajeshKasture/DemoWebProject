@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Kindle Unlimited_a-icon a-icon-checkbox</name>
+   <tag></tag>
+   <elementGuidId>e310f1dd-2cdb-4a58-8ce9-a201fcee56b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s-refinements']/div[6]/ul/li/span/a/div/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5702b8f9-a84e-493f-9b9d-8467b9ed77f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-checkbox</value>
+      <webElementGuid>c20f0854-cf0d-4fa8-bf15-8728aff90c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s-refinements&quot;)/div[@class=&quot;a-section a-spacing-none&quot;]/ul[@class=&quot;a-unordered-list a-nostyle a-vertical a-spacing-medium&quot;]/li[@class=&quot;a-spacing-micro&quot;]/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-link-normal&quot;]/div[@class=&quot;a-checkbox a-checkbox-fancy aok-float-left apb-browse-refinements-checkbox&quot;]/label[1]/i[@class=&quot;a-icon a-icon-checkbox&quot;]</value>
+      <webElementGuid>309b9f0c-3ca7-4812-b0d4-6cc0dbb699c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s-refinements']/div[6]/ul/li/span/a/div/label/i</value>
+      <webElementGuid>c187c612-23e7-4a5a-952e-9a22a495a6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li/span/a/div/label/i</value>
+      <webElementGuid>2b190806-f3f9-4aa9-8c3e-03397c36aaec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
