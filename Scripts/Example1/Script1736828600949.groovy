@@ -38,5 +38,7 @@ WebUI.click(findTestObject('Object Repository/Example2/Page_Log in to Facebook/b
 
 WebUI.delay(2)
 
+CustomKeywords.'CustomKey.refreshBrowser'()
+
 WebUI.closeBrowser()
 
