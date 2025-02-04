@@ -23,9 +23,9 @@ WebUI.delay(2)
 
 WebUI.navigateToUrl('https://demo.automationtesting.in/Frames.html')
 
-WebUI.delay(2)
+WebUI.waitForElementPresent(findTestObject('Example3/Page_Frames/input_text'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Example3/Page_Frames/input_text'), 'rajesh')
+WebUI.setText(findTestObject('Object Repository/Example3/Page_Frames/input_text'), User)
 
 WebUI.delay(2)
 

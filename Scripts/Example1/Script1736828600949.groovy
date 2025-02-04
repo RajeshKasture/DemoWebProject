@@ -40,5 +40,7 @@ WebUI.delay(2)
 
 CustomKeywords.'CustomKey.refreshBrowser'()
 
-WebUI.closeBrowser()
+assert true
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
