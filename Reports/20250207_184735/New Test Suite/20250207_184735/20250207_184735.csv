@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 132.0.0.0,,,07-02-2025 18:47:44,07-02-2025 18:49:19,1m - 34.296s,FAILED
+,,,,,,,
+Test Cases/LoginPage,Chrome 132.0.0.0,,,07-02-2025 18:47:45,07-02-2025 18:48:36,51.690s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 132.0.0.0,,,07-02-2025 18:47:45,07-02-2025 18:47:45,0.024s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,07-02-2025 18:47:45,07-02-2025 18:48:10,24.706s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:48:10,07-02-2025 18:48:12,2.108s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 132.0.0.0,,,07-02-2025 18:48:12,07-02-2025 18:48:18,6.487s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 132.0.0.0,,,07-02-2025 18:48:18,07-02-2025 18:48:19,0.343s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:48:19,07-02-2025 18:48:21,2.020s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Username_username""), ""Admin"")",Chrome 132.0.0.0,,,07-02-2025 18:48:21,07-02-2025 18:48:22,1.774s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:48:22,07-02-2025 18:48:24,2.021s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Password_password""), ""admin123"")",Chrome 132.0.0.0,,,07-02-2025 18:48:24,07-02-2025 18:48:26,1.792s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:48:26,07-02-2025 18:48:28,2.019s,PASSED
+"click(findTestObject(""LoginPage/Page_OrangeHRM/button_Login""))",Chrome 132.0.0.0,,,07-02-2025 18:48:28,07-02-2025 18:48:31,2.290s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:48:31,07-02-2025 18:48:33,2.019s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 132.0.0.0,,,07-02-2025 18:48:33,07-02-2025 18:48:36,3.777s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 132.0.0.0,,,07-02-2025 18:48:36,07-02-2025 18:48:36,0.035s,PASSED
+,,,,,,,
+Test Cases/Amezon,Chrome 132.0.0.0,,,07-02-2025 18:48:36,07-02-2025 18:49:19,42.158s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 132.0.0.0,,,07-02-2025 18:48:36,07-02-2025 18:48:36,0.015s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,07-02-2025 18:48:37,07-02-2025 18:48:40,3.257s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:48:40,07-02-2025 18:48:42,2.013s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 132.0.0.0,,,07-02-2025 18:48:42,07-02-2025 18:48:44,2.187s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:48:44,07-02-2025 18:48:46,2.011s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Amezon/Page_Online Shopping site in India Shop Onl_10c5f3/a_Mobiles""))",Chrome 132.0.0.0,,,07-02-2025 18:48:46,07-02-2025 18:49:19,32.378s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 132.0.0.0,,,07-02-2025 18:49:19,07-02-2025 18:49:19,0.012s,PASSED

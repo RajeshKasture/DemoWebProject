@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Try it Yourself</name>
+   <tag></tag>
+   <elementGuidId>7941611a-e629-4d60-920f-5d75409c284a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[4]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a.w3-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a219aafc-a57a-4323-a072-5bacba2719da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>5ff863ce-8e92-45f4-b6a2-9257ebfe1896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w3-btn</value>
+      <webElementGuid>ea9808fb-5f90-444c-9ead-7626dc9371eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>tryjava.asp?filename=demo_helloworld</value>
+      <webElementGuid>4f9edb83-b7dd-4a90-9795-93a697b6f245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try it Yourself »</value>
+      <webElementGuid>5f335b2e-1316-402a-a48d-0e0130031af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;w3-example&quot;]/p[1]/a[@class=&quot;w3-btn&quot;]</value>
+      <webElementGuid>ce9d8bd0-390a-4cd8-b84c-0d66354a86ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[4]/p/a</value>
+      <webElementGuid>8c011a64-f9ce-468e-95d9-f4f07da92fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Try it Yourself »')]</value>
+      <webElementGuid>fd0c468b-39a9-45fd-8e0a-b4949084c81d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='}'])[2]/following::a[1]</value>
+      <webElementGuid>a591597e-979b-4b18-a9b8-0a37b0fe8908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='}'])[1]/following::a[1]</value>
+      <webElementGuid>3a676017-ba3f-4db1-bb08-9861282eded5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java Exercises'])[2]/preceding::a[1]</value>
+      <webElementGuid>2a3cfbe2-f0bf-4fc2-b666-26d72eebd7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try it Yourself »']/parent::*</value>
+      <webElementGuid>4aba9ddf-a3e7-4cc0-9c21-a72d193e69e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'tryjava.asp?filename=demo_helloworld')]</value>
+      <webElementGuid>6e43fe1d-d15e-4618-aa7c-e767b008f502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>1e7ca26c-290e-40a6-9b34-075663ff8298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'tryjava.asp?filename=demo_helloworld' and (text() = 'Try it Yourself »' or . = 'Try it Yourself »')]</value>
+      <webElementGuid>63079dfd-e13f-4424-8d08-4dc525793e20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

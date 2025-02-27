@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 132.0.0.0,,,07-02-2025 18:52:14,07-02-2025 18:53:22,1m - 8.638s,PASSED
+,,,,,,,
+Test Cases/LoginPage,Chrome 132.0.0.0,,,07-02-2025 18:52:14,07-02-2025 18:52:40,25.709s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 132.0.0.0,,,07-02-2025 18:52:15,07-02-2025 18:52:15,0.040s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,07-02-2025 18:52:15,07-02-2025 18:52:19,4.351s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:52:19,07-02-2025 18:52:21,2.071s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 132.0.0.0,,,07-02-2025 18:52:21,07-02-2025 18:52:28,6.670s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 132.0.0.0,,,07-02-2025 18:52:28,07-02-2025 18:52:28,0.187s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:52:28,07-02-2025 18:52:30,2.079s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Username_username""), ""Admin"")",Chrome 132.0.0.0,,,07-02-2025 18:52:30,07-02-2025 18:52:31,1.026s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:52:31,07-02-2025 18:52:33,2.016s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Password_password""), ""admin123"")",Chrome 132.0.0.0,,,07-02-2025 18:52:33,07-02-2025 18:52:34,0.919s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:52:34,07-02-2025 18:52:36,2.012s,PASSED
+"click(findTestObject(""LoginPage/Page_OrangeHRM/button_Login""))",Chrome 132.0.0.0,,,07-02-2025 18:52:36,07-02-2025 18:52:37,0.574s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:52:37,07-02-2025 18:52:39,2.023s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 132.0.0.0,,,07-02-2025 18:52:39,07-02-2025 18:52:40,1.035s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 132.0.0.0,,,07-02-2025 18:52:40,07-02-2025 18:52:40,0.016s,PASSED
+,,,,,,,
+Test Cases/Amezon,Chrome 132.0.0.0,,,07-02-2025 18:52:40,07-02-2025 18:53:22,42.514s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 132.0.0.0,,,07-02-2025 18:52:40,07-02-2025 18:52:40,0.000s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,07-02-2025 18:52:40,07-02-2025 18:52:44,3.776s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:52:44,07-02-2025 18:52:46,2.013s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 132.0.0.0,,,07-02-2025 18:52:46,07-02-2025 18:52:49,3.377s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:52:49,07-02-2025 18:52:51,2.017s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Amezon/Page_Online Shopping site in India Shop Onl_10c5f3/a_Mobiles""))",Chrome 132.0.0.0,,,07-02-2025 18:52:51,07-02-2025 18:53:00,8.849s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:53:00,07-02-2025 18:53:02,2.019s,PASSED
+"click(findTestObject(""Object Repository/Amezon/Page_Mobile Phones Buy New Mobiles Online a_11ca6d/i_Delivery Day_a-icon a-icon-checkbox""))",Chrome 132.0.0.0,,,07-02-2025 18:53:02,07-02-2025 18:53:05,3.269s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:53:05,07-02-2025 18:53:07,2.017s,PASSED
+"click(findTestObject(""Object Repository/Amezon/Page_Amazon.in/h2_Samsung Galaxy M05 (Mint Green, 4GB RAM,_a1ed84""))",Chrome 132.0.0.0,,,07-02-2025 18:53:07,07-02-2025 18:53:09,1.371s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:53:09,07-02-2025 18:53:11,2.019s,PASSED
+"switchToWindowTitle(""Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7"" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger : Amazon.in: Electronics"")",Chrome 132.0.0.0,,,07-02-2025 18:53:11,07-02-2025 18:53:17,5.751s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:53:17,07-02-2025 18:53:19,2.015s,PASSED
+"click(findTestObject(""Object Repository/Amezon/Page_Samsung Galaxy M05 (Mint Green, 4GB RA_e33b96/input_Shipping cost, delivery date and orde_362d1e""))",Chrome 132.0.0.0,,,07-02-2025 18:53:19,07-02-2025 18:53:20,0.980s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 18:53:20,07-02-2025 18:53:22,2.014s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 132.0.0.0,,,07-02-2025 18:53:22,07-02-2025 18:53:22,0.818s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 132.0.0.0,,,07-02-2025 18:53:22,07-02-2025 18:53:22,0.003s,PASSED

@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 132.0.0.0,,,07-02-2025 19:01:07,07-02-2025 19:01:47,40.207s,FAILED
+,,,,,,,
+Test Cases/Amezon,Chrome 132.0.0.0,,,07-02-2025 19:01:07,07-02-2025 19:01:47,39.798s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 132.0.0.0,,,07-02-2025 19:01:07,07-02-2025 19:01:07,0.030s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,07-02-2025 19:01:07,07-02-2025 19:01:13,5.991s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 19:01:13,07-02-2025 19:01:15,2.057s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 132.0.0.0,,,07-02-2025 19:01:15,07-02-2025 19:01:17,1.811s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 19:01:17,07-02-2025 19:01:19,2.026s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Amezon/Page_Online Shopping site in India Shop Onl_10c5f3/a_Mobiles""))",Chrome 132.0.0.0,,,07-02-2025 19:01:19,07-02-2025 19:01:34,14.800s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 19:01:34,07-02-2025 19:01:36,2.022s,PASSED
+"click(findTestObject(""Object Repository/Amezon/Page_Mobile Phones Buy New Mobiles Online a_11ca6d/i_Delivery Day_a-icon a-icon-checkbox""))",Chrome 132.0.0.0,,,07-02-2025 19:01:36,07-02-2025 19:01:41,4.695s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 19:01:41,07-02-2025 19:01:43,2.015s,PASSED
+"click(findTestObject(""Object Repository/Amezon/Page_Amazon.in/h2_Samsung Galaxy M05 (Mint Green, 4GB RAM,_a1ed84""))",Chrome 132.0.0.0,,,07-02-2025 19:01:43,07-02-2025 19:01:44,1.466s,PASSED
+delay(2),Chrome 132.0.0.0,,,07-02-2025 19:01:44,07-02-2025 19:01:46,2.013s,PASSED
+"switchToWindowIndex(""Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7"" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger : Amazon.in: Electronics"")",Chrome 132.0.0.0,,,07-02-2025 19:01:46,07-02-2025 19:01:47,0.581s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 132.0.0.0,,,07-02-2025 19:01:47,07-02-2025 19:01:47,0.024s,PASSED

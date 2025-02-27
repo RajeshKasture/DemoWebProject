@@ -23,7 +23,11 @@ WebUI.delay(2)
 
 WebUI.navigateToUrl('https://demo.automationtesting.in/Frames.html')
 
+WebUI.delay(2)
+
 WebUI.waitForElementPresent(findTestObject('Example3/Page_Frames/input_text'), 0)
+
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/Example3/Page_Frames/input_text'), User)
 
@@ -31,5 +35,5 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Example3/Page_Frames/div_Single Iframe                          _fea3d6'))
 
-WebUI.delay(2)
+WebUI.enableSmartWait()
 

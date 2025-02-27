@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>765088c1-9e63-4821-b45a-90fb284f7816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='The iframe element'])[1]/following::iframe[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[title=&quot;W3Schools Free Online Web Tutorials&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>653fb410-062c-457f-905d-7b7d5923c374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.w3schools.com</value>
+      <webElementGuid>5dfc98d2-4f48-410d-8586-beb679c2d109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>W3Schools Free Online Web Tutorials</value>
+      <webElementGuid>1582729d-e69b-4a1d-95c2-7fb3d60b1966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/iframe[1]</value>
+      <webElementGuid>0590b105-3b0a-4a6b-96a9-e9586c26f845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iFrame/Page_W3Schools Tryit Editor/iframe__iframeResult</value>
+      <webElementGuid>5aedfcae-8a8f-46a4-880e-c8f084fb9b53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The iframe element'])[1]/following::iframe[1]</value>
+      <webElementGuid>fcf4689b-bd66-4e9e-a5c6-fb940f4d4413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]/body[1]/iframe[1]'])[1]/preceding::iframe[1]</value>
+      <webElementGuid>ecbb7366-86e9-4698-bd1f-3947d62e1fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>de5435fe-971a-4f6b-ab8b-132b1066b0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://www.w3schools.com' and @title = 'W3Schools Free Online Web Tutorials']</value>
+      <webElementGuid>b309ccc5-6c77-4c25-be32-baca1ff68203</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

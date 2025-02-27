@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,03-02-2025 19:37:17,03-02-2025 19:37:47,30.358s,FAILED
+,,,,,,,
+Test Cases/LoginPage,,,,03-02-2025 19:37:18,03-02-2025 19:37:47,28.923s,FAILED
+Start listener action : sampleBeforeTestCase,,,,03-02-2025 19:37:19,03-02-2025 19:37:19,0.196s,PASSED
+"openBrowser("""")",,,,03-02-2025 19:37:20,03-02-2025 19:37:47,27.202s,FAILED
+Start listener action : sampleAfterTestCase,,,,03-02-2025 19:37:47,03-02-2025 19:37:47,0.019s,PASSED

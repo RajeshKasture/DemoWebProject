@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 132.0.0.0,,,24-01-2025 21:19:10,24-01-2025 21:19:47,36.645s,PASSED
+,,,,,,,
+Test Cases/LoginPage,Chrome 132.0.0.0,,,24-01-2025 21:19:11,24-01-2025 21:19:47,35.658s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 132.0.0.0,,,24-01-2025 21:19:11,24-01-2025 21:19:11,0.108s,PASSED
+"openBrowser("""")",Chrome 132.0.0.0,,,24-01-2025 21:19:12,24-01-2025 21:19:27,14.934s,PASSED
+delay(2),Chrome 132.0.0.0,,,24-01-2025 21:19:27,24-01-2025 21:19:29,2.103s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 132.0.0.0,,,24-01-2025 21:19:29,24-01-2025 21:19:33,3.875s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 132.0.0.0,,,24-01-2025 21:19:33,24-01-2025 21:19:33,0.214s,PASSED
+delay(2),Chrome 132.0.0.0,,,24-01-2025 21:19:33,24-01-2025 21:19:35,2.017s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Username_username""), ""Admin"")",Chrome 132.0.0.0,,,24-01-2025 21:19:35,24-01-2025 21:19:36,1.092s,PASSED
+delay(2),Chrome 132.0.0.0,,,24-01-2025 21:19:36,24-01-2025 21:19:38,2.010s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Password_password""), ""admin123"")",Chrome 132.0.0.0,,,24-01-2025 21:19:38,24-01-2025 21:19:39,0.862s,PASSED
+delay(2),Chrome 132.0.0.0,,,24-01-2025 21:19:39,24-01-2025 21:19:41,2.012s,PASSED
+"click(findTestObject(""LoginPage/Page_OrangeHRM/button_Login""))",Chrome 132.0.0.0,,,24-01-2025 21:19:41,24-01-2025 21:19:44,3.360s,PASSED
+delay(2),Chrome 132.0.0.0,,,24-01-2025 21:19:44,24-01-2025 21:19:46,2.024s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 132.0.0.0,,,24-01-2025 21:19:46,24-01-2025 21:19:47,0.513s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 132.0.0.0,,,24-01-2025 21:19:47,24-01-2025 21:19:47,0.016s,PASSED
