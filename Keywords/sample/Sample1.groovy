@@ -1,4 +1,4 @@
-package cB
+package sample
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -38,9 +38,11 @@ import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webui.exception.WebElementNotFoundException
 
 
-class CloseBrowser {
-	def teardown() {
-		WebUI.closeBrowser()
-		Println("Browser closed")
+class Sample1 {
+
+	@Keyword
+	def checkingtitle() {
+		WebUI.verifyElementVisible(findTestOfindTestObject('Object Repository/UsernameTest'))
+		WebUI.verifyElementVisible(findTestOfindTestObjecfindTestObject('Object Repository/PasswordText'))
 	}
 }

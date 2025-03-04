@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 133.0.0.0,,,27-02-2025 09:34:25,27-02-2025 09:35:39,1m - 13.935s,PASSED
+,,,,,,,
+Test Cases/LoginPage,Chrome 133.0.0.0,,,27-02-2025 09:34:26,27-02-2025 09:35:04,38.192s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 133.0.0.0,,,27-02-2025 09:34:26,27-02-2025 09:34:26,0.021s,PASSED
+"openBrowser("""")",Chrome 133.0.0.0,,,27-02-2025 09:34:26,27-02-2025 09:34:42,16.193s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:34:42,27-02-2025 09:34:44,2.109s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 133.0.0.0,,,27-02-2025 09:34:44,27-02-2025 09:34:48,4.089s,PASSED
+maximizeWindow(STOP_ON_FAILURE),Chrome 133.0.0.0,,,27-02-2025 09:34:48,27-02-2025 09:34:49,0.853s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:34:49,27-02-2025 09:34:51,2.030s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Username_username""), ""Admin"")",Chrome 133.0.0.0,,,27-02-2025 09:34:51,27-02-2025 09:34:53,1.850s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:34:53,27-02-2025 09:34:55,2.020s,PASSED
+"setText(findTestObject(""LoginPage/Page_OrangeHRM/input_Password_password""), ""admin123"")",Chrome 133.0.0.0,,,27-02-2025 09:34:55,27-02-2025 09:34:56,1.044s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:34:56,27-02-2025 09:34:58,2.010s,PASSED
+"click(findTestObject(""LoginPage/Page_OrangeHRM/button_Login""))",Chrome 133.0.0.0,,,27-02-2025 09:34:58,27-02-2025 09:35:00,2.041s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:35:00,27-02-2025 09:35:02,2.012s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 133.0.0.0,,,27-02-2025 09:35:02,27-02-2025 09:35:04,1.654s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 133.0.0.0,,,27-02-2025 09:35:04,27-02-2025 09:35:04,0.016s,PASSED
+,,,,,,,
+Test Cases/Example3,Chrome 133.0.0.0,,,27-02-2025 09:35:04,27-02-2025 09:35:39,35.329s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 133.0.0.0,,,27-02-2025 09:35:04,27-02-2025 09:35:04,0.016s,PASSED
+"openBrowser("""")",Chrome 133.0.0.0,,,27-02-2025 09:35:04,27-02-2025 09:35:06,2.165s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:35:06,27-02-2025 09:35:08,2.014s,PASSED
+"navigateToUrl(""https://demo.automationtesting.in/Frames.html"")",Chrome 133.0.0.0,,,27-02-2025 09:35:08,27-02-2025 09:35:29,20.758s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:35:29,27-02-2025 09:35:31,2.017s,PASSED
+"waitForElementPresent(findTestObject(""Example3/Page_Frames/input_text""), 0)",Chrome 133.0.0.0,,,27-02-2025 09:35:31,27-02-2025 09:35:32,0.801s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:35:32,27-02-2025 09:35:34,2.015s,PASSED
+"setText(findTestObject(""Object Repository/Example3/Page_Frames/input_text""), User)",Chrome 133.0.0.0,,,27-02-2025 09:35:34,27-02-2025 09:35:35,0.687s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:35:35,27-02-2025 09:35:37,2.010s,PASSED
+"click(findTestObject(""Object Repository/Example3/Page_Frames/div_Single Iframe                          _fea3d6""))",Chrome 133.0.0.0,,,27-02-2025 09:35:37,27-02-2025 09:35:37,0.512s,PASSED
+delay(2),Chrome 133.0.0.0,,,27-02-2025 09:35:37,27-02-2025 09:35:39,2.007s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 133.0.0.0,,,27-02-2025 09:35:39,27-02-2025 09:35:39,0.004s,PASSED
